@@ -1,6 +1,7 @@
 "use client"
 import { Button } from '@/components/ui/button'
-import { LayoutDashboard, UserCircle } from 'lucide-react'
+import { Progress } from '@/components/ui/progress'
+import { LayoutDashboard, Shield, UserCircle } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
